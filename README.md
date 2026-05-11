@@ -1,2 +1,3 @@
-# Distributed-Cognition-Dynamics
-A mathematical framework for heterogeneous agent networks: problem-indexed abstraction, topology selection (Q-A), stability bounds (Q-B), and tracking dynamics (Q-C).
+# Distributed Cognition Dynamics
+
+A mathematical framework for heterogeneous agent networks under problem-indexed abstraction. See `framework_v2.md` for details.
